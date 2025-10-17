@@ -23,4 +23,9 @@ I created a namespace nginx and a pod of nginx in the namespace and later delete
 
 <img width="1918" height="501" alt="image" src="https://github.com/user-attachments/assets/6df5279b-549a-4314-8e37-d6ef85e8835d" />
 
+In the below Image it can be seen pod created using manifest 
+
+<img width="1897" height="767" alt="image" src="https://github.com/user-attachments/assets/f47f70c4-6f81-4884-a19a-155d170ed0aa" />
+
+
 
