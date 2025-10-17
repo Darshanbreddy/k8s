@@ -19,3 +19,13 @@ kindcluster-1-worker          Ready    <none>          3m59s   v1.31.2
 kindcluster-1-worker2         Ready    <none>          3m58s   v1.31.2
 kindcluster-1-worker3         Ready    <none>          3m59s   v1.31.2
 
+I created a namespace nginx and a pod of nginx in the namespace and later deleted it. I deleted it so that i can create them in manifest file.
+
+<img width="1918" height="501" alt="image" src="https://github.com/user-attachments/assets/6df5279b-549a-4314-8e37-d6ef85e8835d" />
+
+In the below Image it can be seen pod created using manifest 
+
+<img width="1897" height="767" alt="image" src="https://github.com/user-attachments/assets/f47f70c4-6f81-4884-a19a-155d170ed0aa" />
+
+
+
